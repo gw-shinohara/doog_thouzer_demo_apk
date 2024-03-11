@@ -1,2 +1,1 @@
-# blank
-Blank Project Framework
+# doog thouzer demo
